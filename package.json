@@ -1,0 +1,17 @@
+{
+  "name": "woodproject.com",
+  "version": "1.0.0",
+  "description": "Wood project by Angular2",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -p src -w"
+  },
+  "author": "pokakhoaitay, nmthiensg2008",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.47",
+    "es6-shim": "^0.33.13",
+    "systemjs": "^0.19.6",
+    "typescript": "^1.7.3"
+  }
+}
